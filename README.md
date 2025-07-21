@@ -4,7 +4,7 @@
 <p>💻 Passionnée par le développement web, les interfaces modernes et les technologies open-source </p> 
 <p>📫 How to reach me <a href="mailto:fatizaelouali@gmail.com">fatizaelouali@gmail.com</a> 💌</p>
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhyY2I1bmsxZGZjOHo2Zmk2YXZ4aDJzNHY4ZTAxbjMzYWpsZ2g1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Night coding gif" width="400"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo4MTVybGY2c2t0YzdldXJna2J2cXZuYXNnM2J0ejI5bGFpM3pxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Night coding gif" width="400"/>
 </p>
 
 
