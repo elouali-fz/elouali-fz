@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Fatima Ezzahra Elouali!
 
-<!--
-**elouali-fz/elouali-fz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en développement informatique  
+💻 Passionnée par le développement web, les interfaces modernes et les technologies open-source  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences techniques
+
+- HTML / CSS / JavaScript
+- PHP / Laravel / MySQL
+- React / Redux / Tailwind CSS
+- Git / GitHub / GitHub Actions
+
+---
+
+## 📈 Projets récents
+
+---
+
+## 📫 Contact
+
+- 💌 fatizaelouali@gmail.com  
+- 🌐 [Mon LinkedIn] https://www.linkedin.com/in/fatima-ezzahrae-elouali-142aba293/ 
+
+---
+
+> Merci de visiter mon profil ! 😊
