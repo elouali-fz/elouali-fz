@@ -1,5 +1,6 @@
 <h2 align="center">Hi👋, I'm  Fatima Ezzahra !</h2>
-<table> <tr>
+<table border="0">
+ <tr>
   <td  width="70%">
     <p> 🎓 Graduate in Computer Science with a specialization in FULL STACK development</p>
     <p>💻 Passionate about web development, modern interfaces, and open-source technologies</p> 
