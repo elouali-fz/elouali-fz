@@ -2,8 +2,7 @@
 
 🎓 Diplômée en développement informatique  
 💻 Passionnée par le développement web, les interfaces modernes et les technologies open-source  
-
----
+📫 How to reach me 💌fatizaelouali@gmail.com 
 
 ## 🛠️ Compétences techniques
 
@@ -21,17 +20,5 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
-
-## 📈 Projets récents
-
----
-
-## 📫 Contact
-
-- 💌 fatizaelouali@gmail.com  
-- 🌐 [Mon LinkedIn] https://www.linkedin.com/in/fatima-ezzahrae-elouali-142aba293/ 
-
----
 
 > Merci de visiter mon profil ! 😊
