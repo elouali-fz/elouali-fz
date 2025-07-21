@@ -4,7 +4,7 @@
 <p>💻 Passionnée par le développement web, les interfaces modernes et les technologies open-source </p> 
 <p>📫 How to reach me 💌fatizaelouali@gmail.com </p>
 
-<h2 align="center"> Compétences techniques </h2>
+<h2 align="center"> Compétences techniques👩🏻‍💻 </h2>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
