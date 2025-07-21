@@ -1,4 +1,4 @@
-<h2 align="center">HI👋, I'm  Fatima Ezzahra !</h2>
+<h2 align="center">Hi👋, I'm  Fatima Ezzahra !</h2>
 
 <p> 🎓 Graduate in Computer Science with a specialization in FULL STACK development</p>
 <p>💻 Passionate about web development, modern interfaces, and open-source technologies</p> 
@@ -8,7 +8,7 @@
 </p>
 
 
-<h2 align="center"> Compétences techniques👩🏻‍💻 </h2>
+<h2 align="center"> Technologies that i have used👩🏻‍💻 </h2>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,5 +24,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-
-> Merci de visiter mon profil ! 😊
+> Thank you for visiting my profile! 😊
