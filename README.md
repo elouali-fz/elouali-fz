@@ -1,11 +1,10 @@
 <h1 align="center">Bonjour👋, je suis Fatima Ezzahra Elouali!</h1>
 
 <p> 🎓 Diplômée en développement informatique option FULL STACK</p>
+<p>💻 Passionnée par le développement web, les interfaces modernes et les technologies open-source </p> 
+<p>📫 How to reach me 💌fatizaelouali@gmail.com </p>
 
-💻 Passionnée par le développement web, les interfaces modernes et les technologies open-source  
-📫 How to reach me 💌fatizaelouali@gmail.com 
-
-## 🛠️ Compétences techniques
+<h1 align="center"> Compétences techniques </h1>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
