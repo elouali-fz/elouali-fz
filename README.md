@@ -1,6 +1,7 @@
-<h1> 👋 Bonjour, je suis Fatima Ezzahra Elouali!</h1>
+<h1 align="center">Bonjour👋, je suis Fatima Ezzahra Elouali!</h1>
 
-🎓 Diplômée en développement informatique option FULL STACK
+<p> 🎓 Diplômée en développement informatique option FULL STACK</p>
+
 💻 Passionnée par le développement web, les interfaces modernes et les technologies open-source  
 📫 How to reach me 💌fatizaelouali@gmail.com 
 
