@@ -1,4 +1,4 @@
-<h2 align="center">Bonjour👋, je suis Fatima Ezzahra Elouali!</h2>
+<h2 align="center">HI👋, I'm  Fatima Ezzahra !</h2>
 
 <p> 🎓 Graduate in Computer Science with a specialization in FULL STACK development</p>
 <p>💻 Passionate about web development, modern interfaces, and open-source technologies</p> 
