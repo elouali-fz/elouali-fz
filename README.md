@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Fatima Ezzahra Elouali!
 
-🎓 Étudiante en développement informatique  
+🎓 Diplômée en développement informatique  
 💻 Passionnée par le développement web, les interfaces modernes et les technologies open-source  
 
 ---
