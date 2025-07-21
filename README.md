@@ -1,11 +1,20 @@
 <h2 align="center">Bonjour👋, je suis Fatima Ezzahra Elouali!</h2>
 
-<p> 🎓 Diplômée en développement informatique option FULL STACK</p>
-<p>💻 Passionnée par le développement web, les interfaces modernes et les technologies open-source </p> 
+<table>
+  <tr>
+    <td>
+
+<p>🎓 Diplômée en développement informatique option FULL STACK</p>
+<p>💻 Passionnée par le développement web, les interfaces modernes et les technologies open-source</p>
 <p>📫 How to reach me <a href="mailto:fatizaelouali@gmail.com">fatizaelouali@gmail.com</a> 💌</p>
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhyY2I1bmsxZGZjOHo2Zmk2YXZ4aDJzNHY4ZTAxbjMzYWpsZ2g1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Night coding gif" width="400"/>
-</p>
+
+    </td>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhyY2I1bmsxZGZjOHo2Zmk2YXZ4aDJzNHY4ZTAxbjMzYWpsZ2g1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Night coding gif"/>
+    </td>
+  </tr>
+</table>
+
 
 <h2 align="center"> Compétences techniques👩🏻‍💻 </h2>
 
