@@ -1,8 +1,10 @@
 <h2 align="center">Hi👋, I'm  Fatima Ezzahra !</h2>
 <table> <tr>
-  <td><p> 🎓 Graduate in Computer Science with a specialization in FULL STACK development</p>
-<p>💻 Passionate about web development, modern interfaces, and open-source technologies</p> 
-<p>📫 How to reach me <a href="mailto:fatizaelouali@gmail.com">fatizaelouali@gmail.com</a> 💌</p></td> 
+  <td  width="60%">
+    <p> 🎓 Graduate in Computer Science with a specialization in FULL STACK development</p>
+    <p>💻 Passionate about web development, modern interfaces, and open-source technologies</p> 
+    <p>📫 How to reach me <a href="mailto:fatizaelouali@gmail.com">fatizaelouali@gmail.com</a> 💌</p>
+  </td> 
   <td><p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo4MTVybGY2c2t0YzdldXJna2J2cXZuYXNnM2J0ejI5bGFpM3pxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Night coding gif" width="400"/></p></td> </tr>
 </table>
