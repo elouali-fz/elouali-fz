@@ -2,7 +2,7 @@
 
 <p> 🎓 Diplômée en développement informatique option FULL STACK</p>
 <p>💻 Passionnée par le développement web, les interfaces modernes et les technologies open-source </p> 
-<p>📫 How to reach me 💌fatizaelouali@gmail.com </p>
+<p>📫 How to reach me fatizaelouali@gmail.com💌 </p>
 
 <h2 align="center"> Compétences techniques👩🏻‍💻 </h2>
 
